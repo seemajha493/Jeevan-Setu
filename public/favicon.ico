@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Background Circle (Soft Teal/Blue) -->
+  <circle cx="50" cy="50" r="48" fill="#e0f2fe" stroke="#0ea5e9" stroke-width="2"/>
+  
+  <!-- Stylized Bridge / Hands (Orange and Blue) -->
+  <path d="M20 65 C 20 40, 45 30, 50 50 C 55 30, 80 40, 80 65" stroke="#f97316" stroke-width="6" stroke-linecap="round" fill="none"/>
+  
+  <!-- Heart shape below the bridge arch -->
+  <path d="M50 55 C 45 60, 40 55, 40 50 C 40 45, 45 42, 50 45 C 55 42, 60 45, 60 50 C 60 55, 55 60, 50 55 Z" fill="#0ea5e9"/>
+  
+  <!-- Text-ish lines (Optional, maybe keep it simple) -->
+</svg>
