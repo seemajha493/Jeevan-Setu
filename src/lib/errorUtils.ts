@@ -65,7 +65,6 @@ export function getSafeErrorMessage(error: unknown, context?: string): string {
     
     // Insufficient privilege
     case '42000':
-    case '42501':
       return 'You do not have permission to perform this action.';
     
     // Connection issues
